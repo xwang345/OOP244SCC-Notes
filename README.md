@@ -15,4 +15,9 @@ If you know how to do this in any other editor or IDE, please email me the resou
 [Installing tortoise git (a git integration with windows file explorer)](https://www.youtube.com/watch?v=mSMGq3fTF-U) <br />
 
 ## OOP244 YouTube Playlist:
-[playlist](https://www.youtube.com/playlist?list=PLxB4x6RkylosMUAFEvl2RA_uwHpuWXIaR)
+[Last Semester playlist](https://www.youtube.com/playlist?list=PLxB4x6RkylosMUAFEvl2RA_uwHpuWXIaR)<br />
+[Summer Semester playlist](https://www.youtube.com/playlist?list=PLxB4x6RkylouvClTs6zsLTwxctYLLvmER)
+
+## OOP244 Lectures
+
+[May 11, Git introduction and installation isntructions](https://www.youtube.com/watch?v=dOYFEqTZwc0)
