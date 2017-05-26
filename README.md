@@ -23,4 +23,4 @@ If you know how to do this in any other editor or IDE, please email me the resou
 [May 16, Modular programming](https://www.youtube.com/watch?v=GZTlu0qGv5w) <br />
 [May 23, Types and References](https://www.youtube.com/watch?v=rmLtSohm34k)
 ### BigBlueButton Guest link
-[Join The Lecture as a guest]()
+[Join The Lecture as a guest](https://connect.rna1.blindsidenetworks.com/invite/to?c=TyAyt1mRMrYCPC2N4hOU5ofZPND2glA2BCG8rSuE-dk&m=4a991c4ee6a4f1c4c7f7ebe4875c34086fa80cdb&t=1495759703255&u=senecacollege)
