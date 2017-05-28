@@ -21,6 +21,8 @@ If you know how to do this in any other editor or IDE, please email me the resou
 ## OOP244 Lectures
 [May 11, Git introduction and installation isntructions](https://www.youtube.com/watch?v=dOYFEqTZwc0)<br />
 [May 16, Modular programming](https://www.youtube.com/watch?v=GZTlu0qGv5w) <br />
-[May 23, Types and References](https://www.youtube.com/watch?v=rmLtSohm34k)
+[May 23, Types and References](https://www.youtube.com/watch?v=rmLtSohm34k) <br />
+[May 25, Dynamic Memory Allocation](https://www.youtube.com/watch?v=Izd3ifdgtOg)<br />
+[May 25 BBB review session (Slides are not displayed, get them from the notes)](http://recordings.blindsidenetworks.com/senecacollege/dfec52c03e31c87a8d9bbb1b2927fa4d1e606f90-1495759703334/capture/)<br />
 ### BigBlueButton Guest link
-[Join The Lecture as a guest](https://connect.rna1.blindsidenetworks.com/invite/to?c=TyAyt1mRMrYCPC2N4hOU5ofZPND2glA2BCG8rSuE-dk&m=4a991c4ee6a4f1c4c7f7ebe4875c34086fa80cdb&t=1495759703255&u=senecacollege)
+[Join The Lecture as a guest]()
