@@ -18,11 +18,13 @@ If you know how to do this in any other editor or IDE, please email me the resou
 [Last Semester playlist](https://www.youtube.com/playlist?list=PLxB4x6RkylosMUAFEvl2RA_uwHpuWXIaR)<br />
 [Summer Semester playlist](https://www.youtube.com/playlist?list=PLxB4x6RkylouvClTs6zsLTwxctYLLvmER)
 
-## OOP244 Lectures
+## OOP244 Lectures 
+Since the audio for these recordings are bad (cuts on and off) I made the videos unlisted and they are only accessible through the following links <br />
 [May 11, Git introduction and installation isntructions](https://www.youtube.com/watch?v=dOYFEqTZwc0)<br />
 [May 16, Modular programming](https://www.youtube.com/watch?v=GZTlu0qGv5w) <br />
 [May 23, Types and References](https://www.youtube.com/watch?v=rmLtSohm34k) <br />
 [May 25, Dynamic Memory Allocation](https://www.youtube.com/watch?v=Izd3ifdgtOg)<br />
 [May 25 BBB review session (Slides are not displayed, get them from the notes)](http://recordings.blindsidenetworks.com/senecacollege/dfec52c03e31c87a8d9bbb1b2927fa4d1e606f90-1495759703334/capture/)<br />
+[May 30, Member funcitons and Privacy, Current object](https://www.youtube.com/watch?v=IVPKk4nMbX8)
 ### BigBlueButton Guest link
 [Join The Lecture as a guest]()
