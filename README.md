@@ -27,4 +27,4 @@ Since the audio for these recordings are bad (cuts on and off) I made the videos
 [May 25 BBB review session (Slides are not displayed, get them from the notes)](http://recordings.blindsidenetworks.com/senecacollege/dfec52c03e31c87a8d9bbb1b2927fa4d1e606f90-1495759703334/capture/)<br />
 [May 30, Member funcitons and Privacy, Current object](https://www.youtube.com/watch?v=IVPKk4nMbX8)
 ### BigBlueButton Guest link (The online class start at 10 PM tonight)
-[Join The Lecture as a guest]()
+[Join The Lecture as a guest](https://connect.rna1.blindsidenetworks.com/invite/to?c=3HiU32aFeKgsRxU8p9fHgsv7UAESLoaJug69KwF1K3k&m=4a991c4ee6a4f1c4c7f7ebe4875c34086fa80cdb&t=1496367997177&u=senecacollege)
