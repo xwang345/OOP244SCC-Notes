@@ -28,5 +28,6 @@ Since the audio for these recordings are bad (cuts on and off) I made the videos
 [May 30, Member funcitons and Privacy, Current object](https://www.youtube.com/watch?v=IVPKk4nMbX8)<br />
 [June 01, Constructors and Destructor](https://recordings.rna1.blindsidenetworks.com/senecacollege/dfec52c03e31c87a8d9bbb1b2927fa4d1e606f90-1496367997239/capture/)<br />
 [June 08, Operator Overload and Helper functions and helper operator overloads](https://recordings.rna1.blindsidenetworks.com/senecacollege/dfec52c03e31c87a8d9bbb1b2927fa4d1e606f90-1496969527986/capture/)<br />
+[June 15, Classes with resources](https://recordings.rna1.blindsidenetworks.com/senecacollege/dfec52c03e31c87a8d9bbb1b2927fa4d1e606f90-1497573950581/capture/)< br/>
 ### BigBlueButton Guest link 
-[Join The Lecture as a guest](https://connect.rna1.blindsidenetworks.com/invite/to?c=0F5Q8rWfAhsfIUraTfCm-jxI013NxPVUUQxQMhF7ArY&m=4a991c4ee6a4f1c4c7f7ebe4875c34086fa80cdb&t=1497573950522&u=senecacollege)
+[Join The Lecture as a guest]()
