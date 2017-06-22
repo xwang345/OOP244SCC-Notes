@@ -29,6 +29,6 @@ Since the audio for these recordings are bad (cuts on and off) I made the videos
 [June 01, Constructors and Destructor (BBB)](https://recordings.rna1.blindsidenetworks.com/senecacollege/dfec52c03e31c87a8d9bbb1b2927fa4d1e606f90-1496367997239/capture/)<br />
 [June 08, Operator Overload and Helper functions and helper operator overloads (BBB)](https://recordings.rna1.blindsidenetworks.com/senecacollege/dfec52c03e31c87a8d9bbb1b2927fa4d1e606f90-1496969527986/capture/)<br />
 [June 15, Classes with resources (BBB)](https://recordings.rna1.blindsidenetworks.com/senecacollege/dfec52c03e31c87a8d9bbb1b2927fa4d1e606f90-1497573950581/capture/)<br />
-[June 21, Operator overload, classes with resouces review](https://www.youtube.com/watch?v=LvZm3SctI9c)<br />
+[June 20, Operator overload, classes with resouces review](https://www.youtube.com/watch?v=LvZm3SctI9c)<br />
 ### BigBlueButton Guest link 
 [Join The Lecture as a guest]()
