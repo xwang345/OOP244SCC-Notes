@@ -26,8 +26,9 @@ Since the audio for these recordings are bad (cuts on and off) I made the videos
 [May 25, Dynamic Memory Allocation](https://www.youtube.com/watch?v=Izd3ifdgtOg)<br />
 [May 25 BBB review session (Slides are not displayed, get them from the notes)](http://recordings.blindsidenetworks.com/senecacollege/dfec52c03e31c87a8d9bbb1b2927fa4d1e606f90-1495759703334/capture/)<br />
 [May 30, Member funcitons and Privacy, Current object](https://www.youtube.com/watch?v=IVPKk4nMbX8)<br />
-[June 01, Constructors and Destructor](https://recordings.rna1.blindsidenetworks.com/senecacollege/dfec52c03e31c87a8d9bbb1b2927fa4d1e606f90-1496367997239/capture/)<br />
-[June 08, Operator Overload and Helper functions and helper operator overloads](https://recordings.rna1.blindsidenetworks.com/senecacollege/dfec52c03e31c87a8d9bbb1b2927fa4d1e606f90-1496969527986/capture/)<br />
-[June 15, Classes with resources](https://recordings.rna1.blindsidenetworks.com/senecacollege/dfec52c03e31c87a8d9bbb1b2927fa4d1e606f90-1497573950581/capture/)<br />
+[June 01, Constructors and Destructor (BBB)](https://recordings.rna1.blindsidenetworks.com/senecacollege/dfec52c03e31c87a8d9bbb1b2927fa4d1e606f90-1496367997239/capture/)<br />
+[June 08, Operator Overload and Helper functions and helper operator overloads (BBB)](https://recordings.rna1.blindsidenetworks.com/senecacollege/dfec52c03e31c87a8d9bbb1b2927fa4d1e606f90-1496969527986/capture/)<br />
+[June 15, Classes with resources (BBB)](https://recordings.rna1.blindsidenetworks.com/senecacollege/dfec52c03e31c87a8d9bbb1b2927fa4d1e606f90-1497573950581/capture/)<br />
+[June 21, Operator overload, classes with resouces review](https://www.youtube.com/watch?v=LvZm3SctI9c)<br />
 ### BigBlueButton Guest link 
 [Join The Lecture as a guest]()
