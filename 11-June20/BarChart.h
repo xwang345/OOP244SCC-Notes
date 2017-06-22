@@ -16,8 +16,17 @@ namespace sict {
       int min()const;
       int average()const;
       BarChart& merge(const BarChart& BC);
+      int operator+()const;
+      int operator-()const;
+      operator int()const;
+      BarChart& operator+=(const BarChart& RightOperand);
+      BarChart operator+(const BarChart& RightOperand)const;
       ~BarChart();
    };
+   std::istream& operator >> (std::istream& istr, BarChart& RightOperand);
+   std::ostream& operator << (std::ostream& ostr, const BarChart& RightOperand);
+
+   /*BarChart operator+(const BarChart& LO, const BarChart& RO);*/
 }
 
 
