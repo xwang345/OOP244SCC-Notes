@@ -6,7 +6,9 @@ You can cut and paste these code snippets into a text file, and run it...or you 
 
 ------------------------------
 Functions in a Hierarchy
+------------------------------
 
+// ex1.cpp
 #include <iostream>
 using namespace std;
 
@@ -35,7 +37,7 @@ Q1. Which display function gets called? Parent::display, or Child::display?
 Q2. What is the output?
 Q3. I now modify the classes to print names. What is the output?
 
-
+// ex2.cpp
 class Parent
 {
    const char *name;
@@ -79,6 +81,8 @@ Q8. Is the function call to c.display an example of early-binding or late-bindin
 Virtual functions
 I now want to write a global helper function to handle both Parent and child. 
 
+// see ex3.cpp for the class definitions
+// ...
 void hello(Parent *X)
 {
     cout << "Hello to ";
